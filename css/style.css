@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.he button{
+    height: 50px;
+    width: 100px;
+    margin-left: 88% !important;
+}
+
+/* @media screen and (min-width: 1200px) {
+    
+} */
+
+
+.showcase .showcase-text {
+    padding: 3rem;
+  }
+  .showcase .showcase-img {
+    min-height: 30rem;
+    background-size: cover;
+  }
+  @media (min-width: 768px) {
+    .showcase .showcase-text {
+      padding: 7rem;
+    }
+  }
+
+
+.section-1{
+    background-image: url(../images/vita-leonis-ZfRMc1_RUuA-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 95vh;
+}
+
+.fst h1{
+    padding-top: 150px!important;
+    font-size: 50px;
+}
+
+input[type="email"]{
+    width: 400px;
+    height: 70px;
+    padding: 12px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+}
+
+.button-1 button{
+    width: 100px;
+    height: 70px;
+    margin-left: 20px !important;
+    opacity: 0.5;
+    border: none;
+}
+
+h3{
+    margin-top: 30px;
+}
+
+.ea h3{
+    margin-top: 49px;
+}
+
+i{
+    /* margin-top: 9px !important; */
+    /* margin-left: 4px !important; */
+    font-size: 80px;
+    color: blue;
+}
+
+.re{
+    padding: 10% !important;
+    height: 55% !important;
+}
+
+
+.section-3{
+    margin-top: 80px !important;
+}
+
+.sc img{
+    border-radius: 180px;
+}
+
+.sec-4{
+    background-image: url(../images/vita-leonis-ZfRMc1_RUuA-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 50vh;
+}
